@@ -6,6 +6,7 @@ body {
 body, iframe { 
   height: 100%;
   position: absolute;
+  overflow: auto;
 }
 
 iframe {
